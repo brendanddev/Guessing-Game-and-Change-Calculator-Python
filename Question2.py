@@ -1,6 +1,6 @@
 import random #This imports a module named random, whcih is being used to give random numbers to my code.
 
-#I Brendan Dileo, 000879513, certify's that this work is my own effort and that I have not allowed anybody else to copy from it.
+#I Brendan Dileo, certify's that this work is my own effort and that I have not allowed anybody else to copy from it.
 
 amount = random.randint(0,20) + round( random.randint(0,100)/100, 2 ) #The random module is assigned to the 'random' variable which represents the amount the user will owe. The amount owe'd will be a integer value from 0 to 20, and rounded to two decimal places.
 
